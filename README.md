@@ -1,2 +1,2 @@
 # js-hindi-youtube
-A codecrepo for javascript series at chai aur yt channel
+A code repo for javascript series at chai aur yt channel
